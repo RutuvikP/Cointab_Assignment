@@ -2,8 +2,6 @@
 
 A simple application using Node.js and SQL database.
 
-## Video Walkthrough of the Assignment
-
 ## Features
 - Onclick of 'Fetch Users' button 50 records from the (https://randomuser.me/) api will be stored in the database.
 - Onclick of 'Delete Users' button all the entries in the database will be deleted.
